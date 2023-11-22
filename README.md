@@ -1,2 +1,2 @@
-Teste 1 = prova;
+andrey1 = prova;
 pythonProject = Trabalho;
